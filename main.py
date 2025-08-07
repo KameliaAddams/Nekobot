@@ -1043,6 +1043,20 @@ def run():
 Thread(target=run).start()
 
 
+from flask import Flask
+from threading import Thread
 import os
-bot.run(os.getenv("DISCORD_TOKEN"))
 
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "Bot is running!"
+
+def run():
+    app.run(host='0.0.0.0', port=8080, debug=False)
+
+Thread(target=run).start()
+
+if __name__ == "__main__":
+    bot.run(os.getenv("DISCORD_TOKEN"))
