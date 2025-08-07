@@ -1,0 +1,68 @@
+{
+    "451846440952791080": {
+        "type": "dragon",
+        "nom": "poupinou",
+        "dernier_repas": "2025-07-30T22:26:01.191890",
+        "bonheur": 100
+    },
+    "267017748167655426": {
+        "type": "t-rex",
+        "nom": "rexou",
+        "dernier_repas": "2025-07-24T19:58:52.288775",
+        "bonheur": 100
+    },
+    "1252588361688940576": {
+        "type": "buffle",
+        "nom": "Scooby",
+        "dernier_repas": "2025-07-31T01:11:10.561819",
+        "bonheur": 100
+    },
+    "1238463613593845851": {
+        "type": "chat",
+        "nom": "Cookie",
+        "dernier_repas": "2025-07-24T19:18:09.251714",
+        "bonheur": 58
+    },
+    "253580998137217024": {
+        "type": "rat",
+        "nom": "sae",
+        "dernier_repas": "2025-07-30T11:30:38.684923",
+        "bonheur": 100
+    },
+    "1391119498299310111": {
+        "type": "cafard",
+        "nom": "Razmocat2",
+        "dernier_repas": "2025-07-31T01:11:22.403865",
+        "bonheur": 100
+    },
+    "1391141631780192358": {
+        "type": "cochon",
+        "nom": "mike",
+        "dernier_repas": "2025-07-30T16:10:59.832558",
+        "bonheur": 100
+    },
+    "729398841870123018": {
+        "type": "cafard",
+        "nom": "senerdeen",
+        "dernier_repas": "2025-07-28T16:32:40.006438",
+        "bonheur": 100
+    },
+    "374310638635188236": {
+        "type": "chien",
+        "nom": "razmo",
+        "dernier_repas": "2025-07-30T22:24:15.329145",
+        "bonheur": 100
+    },
+    "1393162931339923508": {
+        "type": "chat",
+        "nom": "sana",
+        "dernier_repas": "2025-07-30T22:48:25.633043",
+        "bonheur": 100
+    },
+    "516303797405089802": {
+        "type": "velociraptor",
+        "nom": "Am\u00e9lia",
+        "dernier_repas": "2025-07-31T01:13:30.068268",
+        "bonheur": 100
+    }
+}
